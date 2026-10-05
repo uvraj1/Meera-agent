@@ -1,0 +1,6 @@
+{
+  "name": "MEERA AGENT - Autonomous AI Agent",
+  "description": "Ek Agent. Har Kaam. Bina Ruke. The autonomous AI agent for full-stack engineering, browser automation, research, and workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
